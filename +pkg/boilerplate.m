@@ -1,4 +1,4 @@
 function z = pkfcn(x,y)
-	z = x+y+2
+	z = x+y;
 	return
 end
